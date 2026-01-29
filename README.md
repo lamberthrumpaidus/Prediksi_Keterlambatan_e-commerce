@@ -93,8 +93,9 @@ Berdasarkan hasil eksperimen, pendekatan Big Data menggunakan Apache Spark dan M
 
 ## 👤 Author
 
-**Nama**: *[Lamberth Rumpaidus]*
-**Project**: UAS Big Data
+**Nama**: *Lamberth Rumpaidus*
+
+---
 
 ## Hubungi Saya
 

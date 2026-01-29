@@ -1,7 +1,3 @@
-`Prediksi_Keterlambatan_e-commerce`
-
----
-
 # 📦 Prediksi Keterlambatan Pengiriman E-Commerce
 
 **Big Data & Machine Learning dengan Apache Spark**
